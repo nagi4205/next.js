@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "next-js.132",
+      "title": "json-serverをudemyで学ぶ",
+      "content": "shincodeの動画で学習中",
+      "createdAt": "2022/05/23"
+    },
+    {
+      "id": "イ",
+      "title": "jyで学ぶ",
+      "content": "sh",
+      "createdAt": "2022/05/12"
+    },
+    {
+      "id": "next-js.132",
+      "title": "則史serverをudemyで学ぶ",
+      "content": "sh染谷学習中",
+      "createdAt": "2023/09/23"
+    }
+  ]
+}
